@@ -1,10 +1,10 @@
 # Intent
 
-This UI is build to show that Canadian stats about Covid-19 outbreak in 2020.
+This UI is build to show the Canadian stats about Covid-19 outbreak in 2020.
 
 ## This is not official data.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This website builds data based on news and other website.
 
 ## Available Scripts
 
